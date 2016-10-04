@@ -1,9 +1,16 @@
-  <div class="page-footer">
-    <div class="page-footer-inner"> 2016 &copy; Conventus
-      <!--<a target="_blank" href="#">Conventus</a> &nbsp;|&nbsp;
-                    <a href="#" title="Purchase Metronic just for 27$ and get lifetime updates for free" target="_blank">Purchase Theme</a>-->
-    </div>
-    <div class="scroll-to-top"> <i class="icon-arrow-up"></i> </div>
+<div class="page-footer">
+        <div style="position: absolute; bottom: 50px; " class="text-center">
+                        <a class="btn btn-default btn11" style="width: 12em;
+border-radius: 4px !important;
+height: 4em;
+line-height: 47px;
+font-size: 1.2em;
+background: #36c6d3 none repeat scroll 0 0;
+color: rgb(255, 255, 255);
+border: 0px none;" href="#">Call Us</a>
   </div>
-  <!-- END FOOTER -->
-  </div>
+            <div class="page-footer-inner"> 2016 &copy; Conventus.</div>
+            <div class="scroll-to-top">
+                <i class="icon-arrow-up"></i>
+            </div>
+        </div>

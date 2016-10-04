@@ -1,4 +1,3 @@
-<div class="page-wrapper">
   <!-- BEGIN HEADER -->
             <div class="page-header navbar navbar-fixed-top">
                 <!-- BEGIN HEADER INNER -->
@@ -6,7 +5,7 @@
                     <!-- BEGIN LOGO -->
                     <div class="page-logo">
                         <a href="index.html" style="color:#fff;">
-                            <img src="images/conventuslogo2.jpg" alt="Conventus logo" class="logo-default" style="margin-top:7px" />
+                            <img src="images/conventuslogo2.png" width="120" height="30" alt="Conventus logo" class="logo-default" style="margin-top:7px" />
                         </a>
                         <div class="menu-toggler sidebar-toggler">
                             <span></span>
@@ -350,7 +349,7 @@
                                     </li>
                                 </ul>
                             </li> -->
-                          <a style="color: #fff; background-color: blue; " href="/login"><b> <h4> SIGN IN</h4></b></a>
+                          
                             <!-- END USER LOGIN DROPDOWN -->
                             <!-- BEGIN QUICK SIDEBAR TOGGLER -->
                             <!-- DOC: Apply "dropdown-dark" class after below "dropdown-extended" to change the dropdown styte -->
