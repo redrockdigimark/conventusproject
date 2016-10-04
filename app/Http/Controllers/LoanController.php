@@ -37,5 +37,28 @@ class LoanController extends Controller
 		return view('loan.entity');
     }
 	
+	public function borroweremployment()
+    {
+        //
+		return view('loan.borroweremployment');
+    }
+	
+	public function schedule()
+    {
+        //
+		return view('loan.schedule');
+    }
+	
+	public function signers()
+    {
+        //
+		return view('loan.signers');
+    }
+	
+	public function acknowledgement()
+    {
+        //
+		return view('loan.acknowledgement');
+    }
 	
 }
