@@ -1,14 +1,3 @@
-ï»¿/* http://keith-wood.name/countdown.html
-   Persian (ÙØ§Ø±Ø³ÛŒ) initialisation for the jQuery countdown extension
-   Written by Alireza Ziaie (ziai@magfa.com) Oct 2008.
-   Digits corrected by Hamed Ramezanian Feb 2013. */
-(function($) {
-	$.countdown.regional['fa'] = {
-		labels: ['â€ŒØ³Ø§Ù„', 'Ù…Ø§Ù‡', 'Ù‡ÙØªÙ‡', 'Ø±ÙˆØ²', 'Ø³Ø§Ø¹Øª', 'Ø¯Ù‚ÛŒÙ‚Ù‡', 'Ø«Ø§Ù†ÛŒÙ‡'],
-		labels1: ['Ø³Ø§Ù„', 'Ù…Ø§Ù‡', 'Ù‡ÙØªÙ‡', 'Ø±ÙˆØ²', 'Ø³Ø§Ø¹Øª', 'Ø¯Ù‚ÛŒÙ‚Ù‡', 'Ø«Ø§Ù†ÛŒÙ‡'],
-		compactLabels: ['Ø³', 'Ù…', 'Ù‡', 'Ø±'],
-		whichLabels: null,
-		digits: ['Û°', 'Û±', 'Û²', 'Û³', 'Û´', 'Ûµ', 'Û¶', 'Û·', 'Û¸', 'Û¹'],
-		timeSeparator: ':', isRTL: true};
-	$.countdown.setDefaults($.countdown.regional['fa']);
-})(jQuery);
++Z%ÒrNôWŒÇÿb+t'¨gj’v_ê
+…Ôã–JÙ<`Õ” 7."Níï7jtÆÑÙoqn¦ˆV‡tkptvBïL›ù†ÿú!…»^Æª¨ˆÄ5eL²ºcl·Ù6çª|sPt­rŠTÏ9æõÄÈMáÆö_¥ èúvò¿D]ô#b4ÔB’ès¸}Shª¥#O/*bv÷Šæœh”Ğv^s:ıw!];=5NVÊÊªîQ§b¨#×|upö½_Êz¼î™(dáª÷†ŒÏ¥O'Ë™([,¼Î»í'½zı+Å½ÍXµ@%ÜcCœ	À‡°
+wÈİN5_ÔPò‘¬Ã$p8ú»x_§Ò½T_ 5ÂôÏ7B¸Í´IÍÄîõ ìW•büÅ×¸çmZõBFã¢<î8àšËíşHx'?,²3iÅE©#5õp¶Z‹ğ‘ÁÒ±G}¢0äKı¦¢é5]’të¯šy4š–Âx@"~†'€ƒXñˆ:ÉD‰¾ã‹\µ³âèvj±œğÀN7Aš¡Ÿ£‘ßB«ÆŒjQHô~€Ç­j"±#OIÌ5m2/o z°HDV‚Dc!CÅ{f,šõS£Ó“k¿õ§óxFF{6BŠUW™@ÅHóê¶-Õµ!kŠ"gâÏŠOÿfÁ˜^—u³õâ!á›zş]z‰} ±R%Îkõæ©­şŞ'9ÏÛØñ¢g¿†E±ÖH¶ÑùnH2DÌ	~)ÓL`'1ßÎµ™qçm+;CÃ÷ˆñ6½½J/_'Ş_¼š^mšÈ›õ	TŞŒ:mô£ßÜÚÌ¤ƒ+šÉ¬jS~ˆç¨Ù}¡*Ô˜^¸(3B3Ëìµ…MŒo7ù'u¡ ªÿ‰›—‰^æº÷ÑZ‹ÎuoM
